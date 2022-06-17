@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, eu sou a Taisa 👋
+🌱 Eu estou estudando Html, Css, JavaScript, Angular, Typescritp, Firebase, Java, MySql
 
 <!--
 **Taisaferreiraflavio/Taisaferreiraflavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/Taisaferreiraflavio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taisaferreiraflavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taisaferreiraflavio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+   <a href="https://instagram.com/taisaferreira.09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/taisa-ferreira-flavio-009a7389" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
