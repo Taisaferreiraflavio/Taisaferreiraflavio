@@ -1,5 +1,8 @@
-<h4>Hi there, I’m Taisa! 👋🏻</h4>
-<p>I’m a student of Full Stack Java at SoulCode Academy. I live in Brazil 🇧🇷 and I’m 43 years old.
+### Hi there, I'm Taisa👋
+
+- I've started my studies with programming this year and I´m loving it!
+- I’m a student of Full Stack Java at SoulCode Academy.
+- I’m interested in HTML, CSS, Java, JS, TS, Git, Node, Angular, Firebase and MySql. 
 
 <!--
 **Taisaferreiraflavio/Taisaferreiraflavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +30,6 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/taisaferreira.09@hotmail.com" target="_blank"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   <a href="mailto:taisaferreiraflavio@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
      <a href ="https://wa.me/5516992364321"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
   </div>
   
   
